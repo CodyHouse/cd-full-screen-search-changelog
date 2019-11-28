@@ -1,9 +1,9 @@
-# 📦 Component Name - changelog
+# 📦 Full-Screen Search - changelog
 
-Use this repository to report bugs and get notified about changes affecting the Component Name component.
+Use this repository to report bugs and get notified about changes affecting the Full-Screen Search component.
 
-- [Live Demo](https://codyhouse.co/ds/components/app/component-name)
-- [Info Page](https://codyhouse.co/ds/components/info/component-name)
+- [Live Demo](https://codyhouse.co/ds/components/app/full-screen-search)
+- [Info Page](https://codyhouse.co/ds/components/info/full-screen-search)
 
 Before reporting a bug, please make sure to check the 'info page' of the component. 
 
